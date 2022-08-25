@@ -3,9 +3,10 @@
 ## For educational usage only!
 
 
-
 With this Tool can you grab a token or get logged in to any account who scanned the generated QR-Code.
 Keep in mind that the QR-Codes are only round about 120s valid! So be fast!
+
+Also the Token you will get, is only usable one time! So keep this in mind! Also there COULD be a expiry time near 24h for a token.
 
 You have two options available:
 
